@@ -12,3 +12,7 @@ Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation
 ## TASK 1 - Data Quality Assesment
 - Assessment of data quality and completeness in preparation for analysis
 - Draft an email to your client identifying data quality issues and strategies to mitigate the issues
+
+## TASK 2 - 
+- Targeting high value customers based on customer demographics and attributes.
+- Develop a PowerPoint presentation that outlines the approach in targeting new customers
